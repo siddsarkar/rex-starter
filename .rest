@@ -1,0 +1,33 @@
+
+
+### GET FAMILY
+GET http://localhost:3000/family
+
+### GET FAMILY USING DISCRIMINATOR
+GET http://localhost:3000/family/d
+
+
+### ADD FAMILY
+POST http://localhost:3000/family
+
+
+### ADD FAMILY USING DISCRIMINATOR
+POST http://localhost:3000/family/d
+
+
+
+
+
+### Get VACATION
+GET  http://localhost:3000/vacation
+
+### Get VACATION USING DISCRIMINATOR
+GET  http://localhost:3000/vacation/d
+
+### ADD VACATION
+POST http://localhost:3000/vacation
+
+### ADD VACATION USING DISCRIMINATOR
+POST http://localhost:3000/vacation/d
+
+
